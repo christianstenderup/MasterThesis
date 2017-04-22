@@ -1,0 +1,62 @@
+Start Positions:
+
+Left Elbow: 0,2283226, 0,369569, 2,31073
+Right Elbow: 0,1293729, 0,4418775, 1,776339
+Left Hand: 0,2190037, 0,1324407, 2,272828
+Right Hand: -0,1587405, 0,4692262, 1,764409
+Left Shoulder: 0,2621208, 0,4760994, 2,079517
+Right Shoulder: 0,3750541, 0,416143, 1,839747
+Left wrist: 0,2138575, 0,1640785, 2,298715
+Right wrist: -0,07579111, 0,4603711, 1,762888
+
+End Positions:
+
+Left Elbow: 0,2390759, 0,3601945, 1,903666
+Right Elbow: 0,1153145, 0,4137781, 1,692534
+Left Hand: -0,09023075, 0,4031072, 1,663033
+Right Hand: -0,1915705, 0,4206294, 1,568625
+Left Shoulder: 0,2841305, 0,5367625, 2,114869
+Right Shoulder: 0,3791231, 0,3993043, 1,880297
+Left wrist: -0,01248357, 0,4210698, 1,720121
+Right wrist: -0,09637481, 0,4220229, 1,592335
+
+Distance Moved:
+ElbowLeft: 40,73146 cm
+ElbowRight: 8,950197 cm
+HandLeft: 73,53474 cm
+HandRight: 20,43786 cm
+ShoulderLeft: 7,358144 cm
+ShoulderRight: 4,409568 cm
+WristLeft: 67,2343 cm
+WristRight: 17,60185 cm
+Start Positions:
+
+Left Elbow: 0,3127496, 0,3048541, 1,967744
+Right Elbow: 0,05601013, 0,4249882, 1,775169
+Left Hand: 0,3402232, -0,07605414, 1,938455
+Right Hand: -0,2466834, 0,4676488, 1,75192
+Left Shoulder: 0,2455098, 0,5733532, 2,138875
+Right Shoulder: 0,346433, 0,4101264, 1,865307
+Left wrist: 0,3303412, -0,004502475, 1,913492
+Right wrist: -0,1741734, 0,4442451, 1,757837
+
+End Positions:
+
+Left Elbow: 0,2978623, 0,3005467, 1,966055
+Right Elbow: 0,1008161, 0,3832777, 1,650817
+Left Hand: 0,326701, -0,07734019, 1,936342
+Right Hand: -0,167642, 0,3797044, 1,495105
+Left Shoulder: 0,2248185, 0,5624852, 2,140668
+Right Shoulder: 0,349897, 0,3954376, 1,860778
+Left wrist: 0,3168477, -0,005996823, 1,91145
+Right wrist: -0,1023568, 0,3686619, 1,53282
+
+Distance Moved:
+ElbowLeft: 1,558972 cm
+ElbowRight: 13,86036 cm
+HandLeft: 1,374662 cm
+HandRight: 28,27295 cm
+ShoulderLeft: 2,34405 cm
+ShoulderRight: 1,575663 cm
+WristLeft: 1,372875 cm
+WristRight: 24,79983 cm

@@ -1,0 +1,15 @@
+30 cm movement:
+Vertical movement: Result: HandRight 30,42796
+Vertical movement: Result: HandRight 31,47997
+Vertical movement: Result: HandRight 32,90988
+Horizontal movement: Result: HandRight 32,80795
+Horizontal movement: Result: HandRight 34,66664
+Horizontal movement: Result: HandRight 30,86223
+
+50 cm movement:
+Vertical movement: HandRight 53,70094
+Vertical movement: HandRight 52,0332
+Vertical movement: HandRight 44,98145
+Horizontal movement: HandRight 56,65491
+Horizontal movement: HandRight 53,4547
+Horizontal movement: HandRight 52,34198
